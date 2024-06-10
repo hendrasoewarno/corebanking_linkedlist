@@ -1,6 +1,6 @@
 '''
 Indoprog Core Banking (Versi Linked List)
-By: Hendra Soewarno (0119067305)
+By: Hendra Soewarno (0119067305) & Felicia Fortuma
 
 Jangan buang header ini untuk penghargaan kepada hak cipta
 
